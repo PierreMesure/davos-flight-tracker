@@ -1,10 +1,11 @@
+import os
 from requests.adapters import HTTPAdapter
 from requests import Session
 from ssl import create_default_context, Purpose
 from urllib3.util import Retry
 
 URL = 'https://adsbexchange-com1.p.rapidapi.com/v2/lat/{}/lon/{}/dist/{}/'
-API_KEY = '6a339140cdmsh4f4ee8c9598eeccp107895jsn210773f0c2c4'
+API_KEY = os.environ['API_KEY']
 
 class HttpAdapterWithLegacySsl(HTTPAdapter):
 

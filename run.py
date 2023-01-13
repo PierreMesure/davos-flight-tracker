@@ -1,5 +1,10 @@
+from dotenv import load_dotenv
+load_dotenv()
 from services.downloader import Downloader
 from services.writer import Writer
+import services.dater as dater
+import services.reader as reader
+import services.parser as parser
 
 AIRPORTS = [
     {
@@ -46,10 +51,29 @@ AIRPORTS = [
     }
 ]
 
-RADIUS = 10
+RADIUS = 10 # NM, 1NM = 1,852km
 
-for airport in AIRPORTS[:3]:
+for airport in AIRPORTS[:1]:
     data = Downloader().fetch_aircraft_list(airport['lat'], airport['lon'], RADIUS)
     #print(data['ac'])
-    Writer.write_json(data, f'data/{airport["name"]}/{data["now"]}.json')
+    date = dater.date_from_epoch(data["now"])
+    Writer.write_json(data, f'data/{airport["name"]}/{date}.json')
     #Writer.write_csv(data['ac'], f'data/{airport["name"]}/{data["now"]}.csv')
+
+    existing_aircrafts = reader.read_json(f'data/{airport["name"]}/summary.json')
+    existing_aircraft_ids = [a['hex'] for a in existing_aircrafts]
+
+    for aircraft in data['ac']:
+        hex = aircraft['hex']
+        position = parser.parse_aircraft_position(aircraft, date)
+
+        if hex in existing_aircraft_ids:
+            existing_aircrafts[existing_aircraft_ids.index(hex)]['positions'].append(position)
+        else:
+            new_aircraft = parser.parse_aircraft(aircraft, date)
+            existing_aircrafts.append(new_aircraft)
+
+        Writer.write_json(existing_aircrafts, f'data/{airport["name"]}/summary.json')
+
+
+
