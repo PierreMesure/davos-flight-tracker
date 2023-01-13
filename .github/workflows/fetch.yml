@@ -7,6 +7,9 @@ jobs:
   scrape:
     name: Fetch the data
     runs-on: ubuntu-latest
+    environment: production
+    env:
+      API_KEY: ${{ secrets.API_KEY }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -15,16 +18,14 @@ jobs:
       - run: pip3 install -r requirements.txt
       - name: Fetch the data
         run: python3 run.py
-      - name: Commit the data
-        uses: nick-invision/retry@v2
+      - name: Commit files
+        run: |
+          git config --local user.email "pierre@mesu.re"
+          git config --local user.name "Pierre Mesure"
+          git add .
+          git commit -a -m "Update the data"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          timeout_seconds: 10
-          max_attempts: 5
-          command: |
-            git config --global user.name 'Pierre Mesure (Github Actions)'
-            git config --global user.email 'pierre@mesu.re'
-            git config --global rebase.autoStash true
-            git pull --rebase
-            git add .
-            git commit -am "Update the data"
-            git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
