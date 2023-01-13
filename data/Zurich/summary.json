@@ -41,6 +41,13 @@
                 "lon": 8.554384,
                 "alt_baro": "ground",
                 "dst": 1.613
+            },
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.459747,
+                "lon": 8.387169,
+                "alt_baro": 7775,
+                "dst": 5.175
             }
         ]
     },
@@ -56,6 +63,13 @@
                 "lon": 8.55459,
                 "alt_baro": "ground",
                 "dst": 1.622
+            },
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.460629,
+                "lon": 8.553938,
+                "alt_baro": "ground",
+                "dst": 1.595
             }
         ]
     },
@@ -101,6 +115,13 @@
                 "lon": 8.558631,
                 "alt_baro": "ground",
                 "dst": 1.946
+            },
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.448333,
+                "lon": 8.558631,
+                "alt_baro": "ground",
+                "dst": 1.946
             }
         ]
     },
@@ -116,6 +137,13 @@
                 "lon": 8.558702,
                 "alt_baro": "ground",
                 "dst": 1.789
+            },
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.454014,
+                "lon": 8.573954,
+                "alt_baro": "ground",
+                "dst": 2.446
             }
         ]
     },
@@ -127,6 +155,13 @@
         "positions": [
             {
                 "date": "2023-01-13 16-28-37",
+                "lat": 47.455724,
+                "lon": 8.560022,
+                "alt_baro": "ground",
+                "dst": 1.872
+            },
+            {
+                "date": "2023-01-13 16-46-08",
                 "lat": 47.455724,
                 "lon": 8.560022,
                 "alt_baro": "ground",
@@ -174,6 +209,193 @@
                 "date": "2023-01-13 16-28-37",
                 "lat": 47.454094,
                 "lon": 8.573988,
+                "alt_baro": "ground",
+                "dst": 2.447
+            },
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.454105,
+                "lon": 8.573988,
+                "alt_baro": "ground",
+                "dst": 2.447
+            }
+        ]
+    },
+    {
+        "hex": "502d5c",
+        "flight": "SWR206R ",
+        "r": "YL-ABL",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.461962,
+                "lon": 8.496657,
+                "alt_baro": 4200,
+                "dst": 0.716
+            }
+        ]
+    },
+    {
+        "hex": "4bb28a",
+        "flight": "THY9AB  ",
+        "r": "TC-LTJ",
+        "t": "A21N",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.503967,
+                "lon": 8.506302,
+                "alt_baro": 1850,
+                "dst": 2.588
+            }
+        ]
+    },
+    {
+        "hex": "4b5c5f",
+        "flight": "FLORI117",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.381892,
+                "lon": 8.513894,
+                "alt_baro": "ground",
+                "dst": 4.764
+            }
+        ]
+    },
+    {
+        "hex": "4b028c",
+        "flight": "SWR7AQ  ",
+        "r": "HB-AZC",
+        "t": "E290",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.455948,
+                "lon": 8.555964,
+                "alt_baro": "ground",
+                "dst": 1.707
+            }
+        ]
+    },
+    {
+        "hex": "4b028f",
+        "flight": "SWR60L  ",
+        "r": "HB-AZF",
+        "t": "E290",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.452837,
+                "lon": 8.556413,
+                "alt_baro": "ground",
+                "dst": 1.769
+            }
+        ]
+    },
+    {
+        "hex": "4b0293",
+        "flight": "SWR76UZ ",
+        "r": "HB-AZJ",
+        "t": "E295",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.456429,
+                "lon": 8.558161,
+                "alt_baro": "ground",
+                "dst": 1.79
+            }
+        ]
+    },
+    {
+        "hex": "4b17df",
+        "flight": "SWR0000 ",
+        "r": "HB-JBB",
+        "t": "BCS1",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.45044,
+                "lon": 8.558596,
+                "alt_baro": "ground",
+                "dst": 1.898
+            }
+        ]
+    },
+    {
+        "hex": "4b0291",
+        "flight": "SWR3AG  ",
+        "r": "HB-AZH",
+        "t": "E290",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.455639,
+                "lon": 8.560564,
+                "alt_baro": "ground",
+                "dst": 1.894
+            }
+        ]
+    },
+    {
+        "hex": "4b19f2",
+        "flight": "SWR223P ",
+        "r": "HB-JVM",
+        "t": "E190",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.455994,
+                "lon": 8.564272,
+                "alt_baro": "ground",
+                "dst": 2.039
+            }
+        ]
+    },
+    {
+        "hex": "4b1802",
+        "flight": "SWR878C ",
+        "r": "HB-JCK",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.455689,
+                "lon": 8.568596,
+                "alt_baro": "ground",
+                "dst": 2.215
+            }
+        ]
+    },
+    {
+        "hex": "484f7e",
+        "flight": "KLM56L  ",
+        "r": "PH-EZV",
+        "t": "E190",
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.456666,
+                "lon": 8.570005,
+                "alt_baro": "ground",
+                "dst": 2.264
+            }
+        ]
+    },
+    {
+        "hex": "4b5c3a",
+        "flight": "ZEBRA5  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-13 16-46-08",
+                "lat": 47.454071,
+                "lon": 8.573984,
                 "alt_baro": "ground",
                 "dst": 2.447
             }
