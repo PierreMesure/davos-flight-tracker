@@ -8309,6 +8309,13 @@
                 "lon": 8.592365,
                 "alt_baro": "ground",
                 "dst": 4.601
+            },
+            {
+                "date": "2023-01-14 23-54-22",
+                "lat": 47.394822,
+                "lon": 8.541272,
+                "alt_baro": "ground",
+                "dst": 4.131
             }
         ]
     },
@@ -10044,6 +10051,36 @@
                 "lon": 8.542007,
                 "alt_baro": 35975,
                 "dst": 8.19
+            }
+        ]
+    },
+    {
+        "hex": "4b5c60",
+        "flight": "FLORI568",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-14 23-54-22",
+                "lat": 47.409102,
+                "lon": 8.546448,
+                "alt_baro": "ground",
+                "dst": 3.386
+            }
+        ]
+    },
+    {
+        "hex": "4b5c32",
+        "flight": "FLORIAN1",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-14 23-54-22",
+                "lat": 47.40568,
+                "lon": 8.548384,
+                "alt_baro": "ground",
+                "dst": 3.606
             }
         ]
     }
