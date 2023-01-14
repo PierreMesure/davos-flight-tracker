@@ -1,0 +1,28 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c69",
+            "type": "other",
+            "track": 338.0,
+            "baro_rate": 0,
+            "category": "C2",
+            "lat": 47.448875,
+            "lon": 8.564924,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 1.877,
+            "mlat": [],
+            "tisb": [],
+            "messages": 19553,
+            "seen": 1.9,
+            "rssi": -49.5,
+            "dst": 2.172,
+            "dir": 110.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1673665978395,
+    "total": 1,
+    "ctime": 1673665978395,
+    "ptime": 0
+}
