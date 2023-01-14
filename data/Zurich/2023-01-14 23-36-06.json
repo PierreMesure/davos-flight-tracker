@@ -1,0 +1,29 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c4e",
+            "type": "other",
+            "flight": "FLORI517",
+            "alt_baro": "ground",
+            "track": 307.0,
+            "baro_rate": 0,
+            "lat": 47.445633,
+            "lon": 8.552874,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 42.324,
+            "mlat": [],
+            "tisb": [],
+            "messages": 42173,
+            "seen": 42.3,
+            "rssi": -49.5,
+            "dst": 1.813,
+            "dir": 121.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1673739366323,
+    "total": 1,
+    "ctime": 1673739366323,
+    "ptime": 0
+}

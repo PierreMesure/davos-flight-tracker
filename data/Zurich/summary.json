@@ -10016,5 +10016,20 @@
                 "dst": 1.563
             }
         ]
+    },
+    {
+        "hex": "4b5c4e",
+        "flight": "FLORI517",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-14 23-36-06",
+                "lat": 47.445633,
+                "lon": 8.552874,
+                "alt_baro": "ground",
+                "dst": 1.813
+            }
+        ]
     }
 ]
