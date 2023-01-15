@@ -1,0 +1,34 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c19",
+            "type": "adsb_icao_nt",
+            "flight": "GUSTI1  ",
+            "alt_baro": "ground",
+            "gs": 24.5,
+            "track": 230.62,
+            "category": "C2",
+            "lat": 47.455078,
+            "lon": 8.562727,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 14.957,
+            "version": 1,
+            "nac_p": 8,
+            "sil": 2,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 946675,
+            "seen": 15.0,
+            "rssi": -19.7,
+            "dst": 1.987,
+            "dir": 100.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1673754444823,
+    "total": 1,
+    "ctime": 1673754444823,
+    "ptime": 0
+}
