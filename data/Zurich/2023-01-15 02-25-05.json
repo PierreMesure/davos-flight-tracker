@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b17fd",
+            "type": "other",
+            "flight": "SWR5LJ  ",
+            "r": "HB-JCF",
+            "t": "BCS3",
+            "alt_baro": "ground",
+            "track": 162.0,
+            "baro_rate": 0,
+            "squawk": "2000",
+            "lat": 47.438895,
+            "lon": 8.566607,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 25.368,
+            "mlat": [],
+            "tisb": [],
+            "messages": 90043006,
+            "seen": 25.4,
+            "rssi": -49.5,
+            "dst": 2.5,
+            "dir": 122.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1673749505323,
+    "total": 1,
+    "ctime": 1673749505323,
+    "ptime": 0
+}
