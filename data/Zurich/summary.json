@@ -18669,5 +18669,20 @@
                 "dst": 2.389
             }
         ]
+    },
+    {
+        "hex": "4b5c27",
+        "flight": "EUGEN11 ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-16 03-12-54",
+                "lat": 47.464347,
+                "lon": 8.557522,
+                "alt_baro": "ground",
+                "dst": 1.75
+            }
+        ]
     }
 ]

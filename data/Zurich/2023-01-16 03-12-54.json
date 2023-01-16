@@ -1,0 +1,31 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c27",
+            "type": "adsb_icao_nt",
+            "flight": "EUGEN11 ",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "category": "C2",
+            "lat": 47.464347,
+            "lon": 8.557522,
+            "nic": 8,
+            "rc": 75,
+            "seen_pos": 34.935,
+            "version": 1,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 717966,
+            "seen": 34.9,
+            "rssi": -32.8,
+            "dst": 1.75,
+            "dir": 83.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1673838774323,
+    "total": 1,
+    "ctime": 1673838774323,
+    "ptime": 0
+}
