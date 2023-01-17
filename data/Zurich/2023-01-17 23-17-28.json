@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "4b17fb",
+            "type": "adsb_icao",
+            "flight": "SWR357K ",
+            "r": "HB-JCD",
+            "t": "BCS3",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 132.0,
+            "true_heading": 185.62,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.461956,
+            "lon": 8.551878,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 2.082,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 80983648,
+            "seen": 2.1,
+            "rssi": -7.0,
+            "dst": 1.512,
+            "dir": 88.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1673997448895,
+    "total": 1,
+    "ctime": 1673997448895,
+    "ptime": 0
+}
