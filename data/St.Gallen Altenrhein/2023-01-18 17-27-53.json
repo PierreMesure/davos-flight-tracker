@@ -1,0 +1,39 @@
+{
+    "ac": [
+        {
+            "hex": "440154",
+            "type": "adsb_icao",
+            "flight": "OEFAF   ",
+            "r": "OE-FAF",
+            "t": "C25A",
+            "alt_baro": "ground",
+            "gs": 7.2,
+            "mag_heading": 33.75,
+            "true_heading": 37.24,
+            "category": "A1",
+            "lat": 47.487328,
+            "lon": 9.551771,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 49.594,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 16226852,
+            "seen": 49.6,
+            "rssi": -16.3,
+            "dst": 0.038,
+            "dir": 225.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674062873823,
+    "total": 1,
+    "ctime": 1674062873823,
+    "ptime": 0
+}
