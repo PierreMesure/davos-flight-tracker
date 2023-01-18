@@ -1,0 +1,46 @@
+{
+    "ac": [
+        {
+            "hex": "503fd2",
+            "type": "mlat",
+            "flight": "LYF278  ",
+            "r": "07 BLUE",
+            "t": "C27J",
+            "dbFlags": 1,
+            "alt_baro": 12325,
+            "gs": 175.0,
+            "track": 11.0,
+            "baro_rate": 2554,
+            "squawk": "2745",
+            "category": "A0",
+            "lat": 47.611805,
+            "lon": 9.431002,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 2.62,
+            "version": 0,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 4313196,
+            "seen": 0.0,
+            "rssi": -8.8,
+            "dst": 5.151,
+            "dir": 224.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674068991895,
+    "total": 1,
+    "ctime": 1674068991895,
+    "ptime": 0
+}
