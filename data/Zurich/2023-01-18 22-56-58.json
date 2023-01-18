@@ -1,0 +1,36 @@
+{
+    "ac": [
+        {
+            "hex": "4b5d7e",
+            "type": "adsb_icao_nt",
+            "flight": "GUIDO7  ",
+            "alt_baro": "ground",
+            "gs": 63.5,
+            "track": 129.38,
+            "category": "C2",
+            "lat": 47.407402,
+            "lon": 8.641348,
+            "nic": 0,
+            "rc": 186,
+            "seen_pos": 0.0,
+            "version": 1,
+            "nac_p": 9,
+            "sil": 2,
+            "sil_type": "unknown",
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 70795,
+            "seen": 0.0,
+            "rssi": -6.7,
+            "dst": 6.07,
+            "dir": 122.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674082618397,
+    "total": 1,
+    "ctime": 1674082618397,
+    "ptime": 0
+}

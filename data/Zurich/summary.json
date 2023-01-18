@@ -46570,5 +46570,20 @@
                 "dst": 1.794
             }
         ]
+    },
+    {
+        "hex": "4b5d7e",
+        "flight": "GUIDO7  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 22-56-58",
+                "lat": 47.407402,
+                "lon": 8.641348,
+                "alt_baro": "ground",
+                "dst": 6.07
+            }
+        ]
     }
 ]
