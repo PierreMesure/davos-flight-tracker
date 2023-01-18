@@ -1,0 +1,332 @@
+[
+    {
+        "hex": "4b028f",
+        "flight": "SWR7WA  ",
+        "r": "HB-AZF",
+        "t": "E290",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.461636,
+                "lon": 8.498629,
+                "alt_baro": 3725,
+                "dst": 6.516
+            }
+        ]
+    },
+    {
+        "hex": "44004f",
+        "flight": "AUA5C   ",
+        "r": "OE-LBQ",
+        "t": "A320",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.486727,
+                "lon": 8.529827,
+                "alt_baro": 1925,
+                "dst": 6.49
+            }
+        ]
+    },
+    {
+        "hex": "4b187c",
+        "flight": "SWR69J  ",
+        "r": "HB-JHC",
+        "t": "A333",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.466305,
+                "lon": 8.548119,
+                "alt_baro": "ground",
+                "dst": 5.074
+            }
+        ]
+    },
+    {
+        "hex": "48d980",
+        "flight": "PLF102  ",
+        "r": "0110",
+        "t": "B738",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.453431,
+                "lon": 8.550216,
+                "alt_baro": "ground",
+                "dst": 4.5
+            }
+        ]
+    },
+    {
+        "hex": "4b5d9f",
+        "flight": "ALT777  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.460869,
+                "lon": 8.552479,
+                "alt_baro": "ground",
+                "dst": 4.721
+            }
+        ]
+    },
+    {
+        "hex": "4b19f3",
+        "flight": "SWR3AG  ",
+        "r": "HB-JVN",
+        "t": "E190",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.456829,
+                "lon": 8.553121,
+                "alt_baro": "ground",
+                "dst": 4.539
+            }
+        ]
+    },
+    {
+        "hex": "4b1800",
+        "flight": "SWR64C  ",
+        "r": "HB-JCI",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.453571,
+                "lon": 8.556483,
+                "alt_baro": "ground",
+                "dst": 4.308
+            }
+        ]
+    },
+    {
+        "hex": "440cab",
+        "flight": "AUA564M ",
+        "r": "OE-LZN",
+        "t": "A20N",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.453536,
+                "lon": 8.557557,
+                "alt_baro": "ground",
+                "dst": 4.273
+            }
+        ]
+    },
+    {
+        "hex": "4b1802",
+        "flight": "SWR194P ",
+        "r": "HB-JCK",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.460123,
+                "lon": 8.560057,
+                "alt_baro": "ground",
+                "dst": 4.469
+            }
+        ]
+    },
+    {
+        "hex": "a8a4bf",
+        "flight": "N656TT  ",
+        "r": "N656TT",
+        "t": "GLF6",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.447158,
+                "lon": 8.560339,
+                "alt_baro": "ground",
+                "dst": 3.944
+            }
+        ]
+    },
+    {
+        "hex": "4b1805",
+        "flight": "SWR     ",
+        "r": "HB-JCN",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.442002,
+                "lon": 8.561149,
+                "alt_baro": "ground",
+                "dst": 3.737
+            }
+        ]
+    },
+    {
+        "hex": "4b17fb",
+        "flight": "SWR1ZH  ",
+        "r": "HB-JCD",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.459215,
+                "lon": 8.561307,
+                "alt_baro": "ground",
+                "dst": 4.394
+            }
+        ]
+    },
+    {
+        "hex": "4b028c",
+        "flight": "SWR12CF ",
+        "r": "HB-AZC",
+        "t": "E290",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.459656,
+                "lon": 8.561405,
+                "alt_baro": "ground",
+                "dst": 4.41
+            }
+        ]
+    },
+    {
+        "hex": "4b5c20",
+        "flight": "ZEBRA7  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.455491,
+                "lon": 8.565392,
+                "alt_baro": "ground",
+                "dst": 4.119
+            }
+        ]
+    },
+    {
+        "hex": "4b5c1e",
+        "flight": "ZEBRA2  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.455491,
+                "lon": 8.565445,
+                "alt_baro": "ground",
+                "dst": 4.117
+            }
+        ]
+    },
+    {
+        "hex": "502d58",
+        "flight": "SWR948D ",
+        "r": "YL-ABG",
+        "t": "BCS3",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.456726,
+                "lon": 8.568907,
+                "alt_baro": "ground",
+                "dst": 4.072
+            }
+        ]
+    },
+    {
+        "hex": "4b5c1f",
+        "flight": "ZEBRA3  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.454563,
+                "lon": 8.572065,
+                "alt_baro": "ground",
+                "dst": 3.89
+            }
+        ]
+    },
+    {
+        "hex": "3ce212",
+        "flight": "AHO217E ",
+        "r": "D-CMXM",
+        "t": "E55P",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.453922,
+                "lon": 8.572941,
+                "alt_baro": "ground",
+                "dst": 3.838
+            }
+        ]
+    },
+    {
+        "hex": "30055b",
+        "flight": "DLA6AE  ",
+        "r": "I-ADJS",
+        "t": "E195",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.274496,
+                "lon": 8.64124,
+                "alt_baro": 35000,
+                "dst": 7.969
+            }
+        ]
+    },
+    {
+        "hex": "4b028d",
+        "flight": "SWR3EC  ",
+        "r": "HB-AZD",
+        "t": "E290",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.436493,
+                "lon": 8.641502,
+                "alt_baro": 12025,
+                "dst": 1.767
+            }
+        ]
+    },
+    {
+        "hex": "7807fc",
+        "flight": "BJN099  ",
+        "r": "B-3999",
+        "t": "B737",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.455025,
+                "lon": 8.64786,
+                "alt_baro": 5625,
+                "dst": 2.903
+            }
+        ]
+    },
+    {
+        "hex": "4b193a",
+        "flight": "GSW630  ",
+        "r": "HB-JOK",
+        "t": "A320",
+        "positions": [
+            {
+                "date": "2023-01-18 17-48-27",
+                "lat": 47.394836,
+                "lon": 8.805267,
+                "alt_baro": 11925,
+                "dst": 6.862
+            }
+        ]
+    }
+]

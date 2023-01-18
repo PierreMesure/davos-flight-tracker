@@ -40,8 +40,8 @@ AIRPORTS = [
     {
         'name': 'Friedrichshafen',
         'code': 'EDNY',
-        'lat': 47.4071945,
-        'lon': 8.6374091
+        'lat': 47.6727707,
+        'lon': 9.5206065
     },
     {
         'name': 'St.Gallen Altenrhein',
@@ -53,7 +53,7 @@ AIRPORTS = [
 
 RADIUS = 10 # NM, 1NM = 1,852km
 
-for airport in AIRPORTS[:1]:
+for airport in AIRPORTS:
     data = Downloader().fetch_aircraft_list(airport['lat'], airport['lon'], RADIUS)
     #print(data['ac'])
     date = dater.date_from_epoch(data["now"])
