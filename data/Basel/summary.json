@@ -1055,6 +1055,28 @@
                 "lon": 7.530829,
                 "alt_baro": "ground",
                 "dst": 1.032
+            },
+            {
+                "date": "2023-01-18 23-37-48",
+                "lat": 47.586388,
+                "lon": 7.533016,
+                "alt_baro": "ground",
+                "dst": 1.076
+            }
+        ]
+    },
+    {
+        "hex": "38c7ff",
+        "flight": "TECHNO18",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 23-37-48",
+                "lat": 47.620823,
+                "lon": 7.50773,
+                "alt_baro": "ground",
+                "dst": 1.423
             }
         ]
     }
