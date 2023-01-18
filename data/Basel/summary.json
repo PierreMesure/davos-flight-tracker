@@ -1035,5 +1035,20 @@
                 "dst": 8.715
             }
         ]
+    },
+    {
+        "hex": "385dff",
+        "flight": "TECHNO20",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-18 23-15-47",
+                "lat": 47.590027,
+                "lon": 7.530888,
+                "alt_baro": "ground",
+                "dst": 0.883
+            }
+        ]
     }
 ]
