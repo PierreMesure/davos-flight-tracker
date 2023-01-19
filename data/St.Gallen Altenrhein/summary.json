@@ -1670,5 +1670,95 @@
                 "dst": 9.812
             }
         ]
+    },
+    {
+        "hex": "43e7ed",
+        "flight": "MJJTL   ",
+        "r": "M-JJTL",
+        "t": "PC12",
+        "positions": [
+            {
+                "date": "2023-01-19 17-29-06",
+                "lat": 47.511959,
+                "lon": 9.334083,
+                "alt_baro": 5500,
+                "dst": 8.996
+            }
+        ]
+    },
+    {
+        "hex": "4b1816",
+        "flight": "SWR20CZ ",
+        "r": "HB-JDE",
+        "t": "A20N",
+        "positions": [
+            {
+                "date": "2023-01-19 17-29-06",
+                "lat": 47.462402,
+                "lon": 9.539429,
+                "alt_baro": 25500,
+                "dst": 1.636
+            }
+        ]
+    },
+    {
+        "hex": "49328c",
+        "flight": "NJE781B ",
+        "r": "CS-LTL",
+        "t": "C68A",
+        "positions": [
+            {
+                "date": "2023-01-19 17-29-06",
+                "lat": 47.486157,
+                "lon": 9.550112,
+                "alt_baro": "ground",
+                "dst": 0.135
+            }
+        ]
+    },
+    {
+        "hex": "4b0ebc",
+        "flight": "HBFPC   ",
+        "r": "HB-FPC",
+        "t": "PC12",
+        "positions": [
+            {
+                "date": "2023-01-19 17-29-06",
+                "lat": 47.487414,
+                "lon": 9.552929,
+                "alt_baro": "ground",
+                "dst": 0.029
+            }
+        ]
+    },
+    {
+        "hex": "4b7f9e",
+        "flight": "KITE11  ",
+        "r": "T-321",
+        "t": "AS32",
+        "positions": [
+            {
+                "date": "2023-01-19 17-29-06",
+                "lat": 47.417868,
+                "lon": 9.621511,
+                "alt_baro": 4600,
+                "dst": 5.048
+            }
+        ]
+    },
+    {
+        "hex": "4b1919",
+        "flight": "SWR180  ",
+        "r": "HB-JND",
+        "t": "B77W",
+        "positions": [
+            {
+                "date": "2023-01-19 17-29-06",
+                "lat": 47.425139,
+                "lon": 9.741141,
+                "alt_baro": 20675,
+                "dst": 8.49
+            }
+        ]
     }
 ]
