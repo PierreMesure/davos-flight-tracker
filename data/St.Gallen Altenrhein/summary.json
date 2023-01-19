@@ -669,5 +669,35 @@
                 "dst": 8.253
             }
         ]
+    },
+    {
+        "hex": "4a5129",
+        "flight": "TIH4C   ",
+        "r": "YR-TII",
+        "t": "GALX",
+        "positions": [
+            {
+                "date": "2023-01-19 09-12-41",
+                "lat": 47.487193,
+                "lon": 9.55351,
+                "alt_baro": "ground",
+                "dst": 0.056
+            }
+        ]
+    },
+    {
+        "hex": "440ce8",
+        "flight": "OEAKM   ",
+        "r": "OE-AKM",
+        "t": "BR23",
+        "positions": [
+            {
+                "date": "2023-01-19 09-12-41",
+                "lat": 47.488031,
+                "lon": 9.744662,
+                "alt_baro": 3200,
+                "dst": 7.799
+            }
+        ]
     }
 ]

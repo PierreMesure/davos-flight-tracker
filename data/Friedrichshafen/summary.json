@@ -588,6 +588,28 @@
                 "lon": 9.507723,
                 "alt_baro": "ground",
                 "dst": 0.627
+            },
+            {
+                "date": "2023-01-19 09-12-41",
+                "lat": 47.666954,
+                "lon": 9.507716,
+                "alt_baro": "ground",
+                "dst": 0.627
+            }
+        ]
+    },
+    {
+        "hex": "e49688",
+        "flight": "PSBTG   ",
+        "r": "PS-BTG",
+        "t": "GL7T",
+        "positions": [
+            {
+                "date": "2023-01-19 09-12-41",
+                "lat": 47.668595,
+                "lon": 9.512505,
+                "alt_baro": "ground",
+                "dst": 0.412
             }
         ]
     }
