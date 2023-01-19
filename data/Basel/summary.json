@@ -729,6 +729,13 @@
                 "lon": 7.527589,
                 "alt_baro": "ground",
                 "dst": 0.656
+            },
+            {
+                "date": "2023-01-19 05-37-32",
+                "lat": 47.597729,
+                "lon": 7.528193,
+                "alt_baro": "ground",
+                "dst": 0.66
             }
         ]
     },
@@ -1310,6 +1317,36 @@
                 "lon": 7.529174,
                 "alt_baro": "ground",
                 "dst": 0.729
+            }
+        ]
+    },
+    {
+        "hex": "4b187e",
+        "flight": "SWR87   ",
+        "r": "HB-JHE",
+        "t": "A333",
+        "positions": [
+            {
+                "date": "2023-01-19 05-37-32",
+                "lat": 47.687805,
+                "lon": 7.323486,
+                "alt_baro": 21350,
+                "dst": 9.412
+            }
+        ]
+    },
+    {
+        "hex": "386bff",
+        "flight": "AMAC1   ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-19 05-37-32",
+                "lat": 47.586319,
+                "lon": 7.524021,
+                "alt_baro": "ground",
+                "dst": 0.821
             }
         ]
     }
