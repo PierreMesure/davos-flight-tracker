@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "3d239f",
+            "type": "mlat",
+            "flight": "DELSX   ",
+            "r": "D-ELSX",
+            "t": "P28A",
+            "alt_baro": 2500,
+            "gs": 83.0,
+            "track": 252.0,
+            "baro_rate": 2495,
+            "squawk": "7000",
+            "lat": 47.660207,
+            "lon": 9.477242,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.601,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 5772940,
+            "seen": 0.0,
+            "rssi": -4.8,
+            "dst": 1.909,
+            "dir": 246.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674150026395,
+    "total": 1,
+    "ctime": 1674150026395,
+    "ptime": 0
+}

@@ -1,0 +1,39 @@
+{
+    "ac": [
+        {
+            "hex": "491313",
+            "type": "adsb_icao",
+            "flight": "NJE080Y ",
+            "r": "CS-DXS",
+            "t": "C56X",
+            "alt_baro": "ground",
+            "gs": 14.2,
+            "mag_heading": 278.44,
+            "true_heading": 62.55,
+            "category": "A2",
+            "lat": 47.484787,
+            "lon": 9.563324,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 19.126,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 32132186,
+            "seen": 10.5,
+            "rssi": -12.2,
+            "dst": 0.477,
+            "dir": 112.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674150026895,
+    "total": 1,
+    "ctime": 1674150026895,
+    "ptime": 0
+}
