@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "e49688",
+            "type": "adsb_icao",
+            "flight": "PSBTG   ",
+            "r": "PS-BTG",
+            "t": "GL7T",
+            "alt_baro": "ground",
+            "gs": 0.1,
+            "track": 349.0,
+            "true_heading": 185.62,
+            "baro_rate": 0,
+            "squawk": "5251",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.67339,
+            "lon": 9.523157,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 5.776,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 5634992,
+            "seen": 0.9,
+            "rssi": -5.1,
+            "dst": 0.11,
+            "dir": 70.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674159206823,
+    "total": 1,
+    "ctime": 1674159206823,
+    "ptime": 0
+}
