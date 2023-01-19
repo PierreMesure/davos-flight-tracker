@@ -1,0 +1,38 @@
+{
+    "ac": [
+        {
+            "hex": "3d27d2",
+            "type": "adsb_icao",
+            "flight": "DENIG   ",
+            "r": "D-ENIG",
+            "t": "DV20",
+            "alt_baro": 1475,
+            "gs": 10.3,
+            "track": 60.95,
+            "baro_rate": 0,
+            "category": "A1",
+            "lat": 47.670776,
+            "lon": 9.514847,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.208,
+            "version": 2,
+            "nac_v": 0,
+            "sil_type": "perhour",
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1514761,
+            "seen": 0.2,
+            "rssi": -3.7,
+            "dst": 0.262,
+            "dir": 242.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674133033323,
+    "total": 1,
+    "ctime": 1674133033323,
+    "ptime": 0
+}
