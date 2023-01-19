@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "5002d8",
+            "type": "adsb_icao",
+            "flight": "T7DFC   ",
+            "r": "T7-DFC",
+            "t": "GL7T",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 159.0,
+            "true_heading": 261.56,
+            "baro_rate": 0,
+            "squawk": "3203",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.666954,
+            "lon": 9.507723,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 16.062,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 509300,
+            "seen": 0.9,
+            "rssi": -13.6,
+            "dst": 0.627,
+            "dir": 236.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674118477823,
+    "total": 1,
+    "ctime": 1674118477823,
+    "ptime": 0
+}
