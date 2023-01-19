@@ -3835,5 +3835,35 @@
                 "dst": 0.167
             }
         ]
+    },
+    {
+        "hex": "4b5c27",
+        "flight": "EUGEN11 ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-19 03-00-25",
+                "lat": 47.472897,
+                "lon": 8.537922,
+                "alt_baro": "ground",
+                "dst": 5.647
+            }
+        ]
+    },
+    {
+        "hex": "4b5d6e",
+        "flight": "VIKTOR31",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-19 03-00-25",
+                "lat": 47.445901,
+                "lon": 8.563367,
+                "alt_baro": "ground",
+                "dst": 3.801
+            }
+        ]
     }
 ]
