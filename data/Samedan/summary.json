@@ -1,0 +1,17 @@
+[
+    {
+        "hex": "4b43cf",
+        "flight": "HBZRR   ",
+        "r": "HB-ZRR",
+        "t": "A109",
+        "positions": [
+            {
+                "date": "2023-01-19 08-33-47",
+                "lat": 46.5307,
+                "lon": 9.877517,
+                "alt_baro": "ground",
+                "dst": 0.061
+            }
+        ]
+    }
+]
