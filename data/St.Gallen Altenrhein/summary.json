@@ -1411,5 +1411,35 @@
                 "dst": 1.154
             }
         ]
+    },
+    {
+        "hex": "490d09",
+        "flight": "NJE367T ",
+        "r": "CS-CHI",
+        "t": "CL35",
+        "positions": [
+            {
+                "date": "2023-01-19 14-30-13",
+                "lat": 47.485901,
+                "lon": 9.552436,
+                "alt_baro": "ground",
+                "dst": 0.112
+            }
+        ]
+    },
+    {
+        "hex": "4243bc",
+        "flight": "SHE32G  ",
+        "r": "VQ-BXG",
+        "t": "FA8X",
+        "positions": [
+            {
+                "date": "2023-01-19 14-30-13",
+                "lat": 47.484586,
+                "lon": 9.565183,
+                "alt_baro": "ground",
+                "dst": 0.552
+            }
+        ]
     }
 ]
