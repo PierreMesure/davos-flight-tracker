@@ -1,0 +1,37 @@
+{
+    "ac": [
+        {
+            "hex": "a364c0",
+            "type": "adsb_icao",
+            "flight": "EJM318  ",
+            "r": "N318CE",
+            "t": "FA7X",
+            "dbFlags": 8,
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 5.62,
+            "squawk": "2275",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.48727,
+            "lon": 9.552544,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 58.641,
+            "version": 2,
+            "sil_type": "perhour",
+            "mlat": [],
+            "tisb": [],
+            "messages": 2048484,
+            "seen": 1.0,
+            "rssi": -15.2,
+            "dst": 0.03,
+            "dir": 171.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674160712396,
+    "total": 1,
+    "ctime": 1674160712396,
+    "ptime": 0
+}
