@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "a7dae5",
+            "type": "adsb_icao",
+            "flight": "N605M   ",
+            "r": "N605M",
+            "t": "CL60",
+            "dbFlags": 8,
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 326.25,
+            "squawk": "1200",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.672276,
+            "lon": 9.51967,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 29.834,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 4197467,
+            "seen": 5.4,
+            "rssi": -14.0,
+            "dst": 0.048,
+            "dir": 231.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674114291823,
+    "total": 1,
+    "ctime": 1674114291823,
+    "ptime": 0
+}
