@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "4d20f8",
+            "type": "adsb_icao",
+            "flight": "VJT895  ",
+            "r": "9H-VJP",
+            "t": "GLEX",
+            "alt_baro": "ground",
+            "gs": 6.2,
+            "true_heading": 326.25,
+            "squawk": "3217",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.486744,
+            "lon": 9.552509,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.86,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 24965887,
+            "seen": 0.2,
+            "rssi": -8.2,
+            "dst": 0.062,
+            "dir": 177.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674223912895,
+    "total": 1,
+    "ctime": 1674223912895,
+    "ptime": 0
+}
