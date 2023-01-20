@@ -1,0 +1,44 @@
+{
+    "ac": [
+        {
+            "hex": "4407aa",
+            "type": "mlat",
+            "flight": "C8      ",
+            "r": "OE-XVE",
+            "t": "EC35",
+            "alt_baro": 3100,
+            "ias": 263,
+            "mach": 0.776,
+            "calc_track": 43,
+            "mag_heading": 229.92,
+            "true_heading": 233.45,
+            "baro_rate": 288,
+            "geom_rate": 64,
+            "squawk": "1657",
+            "lat": 47.34676,
+            "lon": 9.67297,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 2.414,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 709431,
+            "seen": 0.4,
+            "rssi": -9.6,
+            "dst": 9.781,
+            "dir": 149.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674215673823,
+    "total": 1,
+    "ctime": 1674215673823,
+    "ptime": 0
+}
