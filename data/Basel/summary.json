@@ -5233,5 +5233,35 @@
                 "dst": 0.808
             }
         ]
+    },
+    {
+        "hex": "4d21fe",
+        "flight": "RYR20QF ",
+        "r": "9H-QAN",
+        "t": "B738",
+        "positions": [
+            {
+                "date": "2023-01-20 05-46-29",
+                "lat": 47.613163,
+                "lon": 7.48176,
+                "alt_baro": 39000,
+                "dst": 1.549
+            }
+        ]
+    },
+    {
+        "hex": "386fff",
+        "flight": "AMAC3   ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-20 05-46-29",
+                "lat": 47.586994,
+                "lon": 7.524073,
+                "alt_baro": "ground",
+                "dst": 0.79
+            }
+        ]
     }
 ]
