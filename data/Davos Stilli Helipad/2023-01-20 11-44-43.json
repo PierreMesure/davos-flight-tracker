@@ -1,0 +1,34 @@
+{
+    "ac": [
+        {
+            "hex": "4b447c",
+            "type": "other",
+            "flight": "HBZYI   ",
+            "r": "HB-ZYI",
+            "t": "B429",
+            "alt_baro": 4890,
+            "gs": 152.0,
+            "track": 325.0,
+            "baro_rate": 0,
+            "category": "A7",
+            "lat": 46.948333,
+            "lon": 9.715367,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.0,
+            "version": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1840216,
+            "seen": 0.0,
+            "rssi": -49.5,
+            "dst": 9.859,
+            "dir": 326.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674215083323,
+    "total": 1,
+    "ctime": 1674215083323,
+    "ptime": 0
+}
