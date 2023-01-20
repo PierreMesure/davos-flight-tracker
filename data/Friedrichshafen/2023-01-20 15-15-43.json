@@ -1,0 +1,53 @@
+{
+    "ac": [
+        {
+            "hex": "4bce61",
+            "type": "adsb_icao",
+            "flight": "KOC11   ",
+            "r": "TC-SSA",
+            "t": "FA8X",
+            "dbFlags": 8,
+            "alt_baro": 2200,
+            "alt_geom": 2475,
+            "gs": 136.9,
+            "track": 238.75,
+            "true_heading": 239.06,
+            "baro_rate": 3904,
+            "squawk": "2750",
+            "emergency": "none",
+            "category": "A2",
+            "nav_qnh": 1017.6,
+            "nav_altitude_mcp": 5024,
+            "nav_modes": [
+                "autopilot"
+            ],
+            "lat": 47.666153,
+            "lon": 9.498436,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 0.0,
+            "version": 2,
+            "nic_baro": 1,
+            "nac_p": 11,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "gva": 2,
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 17906810,
+            "seen": 0.0,
+            "rssi": -2.1,
+            "dst": 0.959,
+            "dir": 246.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674227743323,
+    "total": 1,
+    "ctime": 1674227743323,
+    "ptime": 0
+}
