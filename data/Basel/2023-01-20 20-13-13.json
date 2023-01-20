@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "440cfe",
+            "type": "other",
+            "flight": "EJU95WF ",
+            "r": "OE-LVK",
+            "t": "A319",
+            "alt_baro": "ground",
+            "track": 67.0,
+            "category": "A3",
+            "lat": 47.596858,
+            "lon": 7.529825,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 54.4,
+            "version": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 8043479,
+            "seen": 54.4,
+            "rssi": -49.5,
+            "dst": 0.726,
+            "dir": 92.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674245593178,
+    "total": 1,
+    "ctime": 1674245593178,
+    "ptime": 0
+}
