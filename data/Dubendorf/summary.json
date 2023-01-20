@@ -14541,5 +14541,35 @@
                 "dst": 2.728
             }
         ]
+    },
+    {
+        "hex": "4b5c39",
+        "flight": "GALA21  ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-20 02-35-16",
+                "lat": 47.459393,
+                "lon": 8.545853,
+                "alt_baro": "ground",
+                "dst": 4.863
+            }
+        ]
+    },
+    {
+        "hex": "4b5d54",
+        "flight": "GALA6   ",
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-20 02-35-16",
+                "lat": 47.459267,
+                "lon": 8.548016,
+                "alt_baro": "ground",
+                "dst": 4.791
+            }
+        ]
     }
 ]
