@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "71c080",
+            "type": "adsb_icao",
+            "flight": "HL8080  ",
+            "r": "HL8080",
+            "t": "A319",
+            "dbFlags": 8,
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 196.88,
+            "squawk": "2742",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.673626,
+            "lon": 9.523808,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.176,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 3,
+            "mlat": [],
+            "tisb": [],
+            "messages": 5514504,
+            "seen": 3.2,
+            "rssi": -10.7,
+            "dst": 0.139,
+            "dir": 68.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674225496895,
+    "total": 1,
+    "ctime": 1674225496895,
+    "ptime": 0
+}
