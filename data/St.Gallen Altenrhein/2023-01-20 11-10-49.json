@@ -1,0 +1,37 @@
+{
+    "ac": [
+        {
+            "hex": "407bc4",
+            "type": "adsb_icao",
+            "flight": "GLOBX   ",
+            "r": "G-LOBX",
+            "t": "GL7T",
+            "dbFlags": 8,
+            "alt_baro": "ground",
+            "gs": 5.2,
+            "true_heading": 278.44,
+            "squawk": "7522",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.484097,
+            "lon": 9.569866,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 4.851,
+            "version": 2,
+            "sil_type": "perhour",
+            "mlat": [],
+            "tisb": [],
+            "messages": 18156269,
+            "seen": 4.9,
+            "rssi": -13.1,
+            "dst": 0.741,
+            "dir": 107.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674213049823,
+    "total": 1,
+    "ctime": 1674213049823,
+    "ptime": 0
+}
