@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "800d07",
+            "type": "adsb_icao",
+            "flight": "VTRUP   ",
+            "r": "VT-RUP",
+            "t": "GL5T",
+            "alt_baro": "ground",
+            "gs": 0.1,
+            "track": 270.0,
+            "true_heading": 334.69,
+            "baro_rate": 0,
+            "squawk": "6217",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.672401,
+            "lon": 9.520185,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 0.724,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 4388606,
+            "seen": 0.7,
+            "rssi": -4.4,
+            "dst": 0.028,
+            "dir": 217.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674195419823,
+    "total": 1,
+    "ctime": 1674195419823,
+    "ptime": 0
+}
