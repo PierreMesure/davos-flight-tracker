@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4009d8",
+            "type": "other",
+            "flight": "BAW76GF ",
+            "r": "G-EUUK",
+            "t": "A320",
+            "alt_baro": "ground",
+            "track": 122.0,
+            "squawk": "6735",
+            "category": "A3",
+            "lat": 47.595966,
+            "lon": 7.529737,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 1.209,
+            "mlat": [],
+            "tisb": [],
+            "messages": 88210035,
+            "seen": 1.2,
+            "rssi": -49.5,
+            "dst": 0.726,
+            "dir": 96.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674323089178,
+    "total": 1,
+    "ctime": 1674323089178,
+    "ptime": 0
+}
