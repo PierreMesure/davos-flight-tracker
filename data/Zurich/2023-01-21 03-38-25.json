@@ -1,0 +1,34 @@
+{
+    "ac": [
+        {
+            "hex": "4b5d6e",
+            "type": "adsb_icao_nt",
+            "flight": "VIKTOR31",
+            "alt_baro": "ground",
+            "gs": 2.8,
+            "track": 281.25,
+            "category": "C2",
+            "lat": 47.462078,
+            "lon": 8.552716,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 4.301,
+            "version": 1,
+            "nac_p": 11,
+            "sil": 2,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 540653,
+            "seen": 4.3,
+            "rssi": -19.1,
+            "dst": 1.546,
+            "dir": 88.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674272305678,
+    "total": 1,
+    "ctime": 1674272305678,
+    "ptime": 0
+}
