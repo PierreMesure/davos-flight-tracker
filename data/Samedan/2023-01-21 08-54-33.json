@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b4354",
+            "type": "other",
+            "flight": "HBZMY   ",
+            "r": "HB-ZMY",
+            "t": "AS50",
+            "alt_baro": "ground",
+            "gs": 4.0,
+            "track": 30.0,
+            "baro_rate": 0,
+            "lat": 46.53275,
+            "lon": 9.885283,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 4.537,
+            "mlat": [],
+            "tisb": [],
+            "messages": 62756,
+            "seen": 4.5,
+            "rssi": -49.5,
+            "dst": 0.401,
+            "dir": 65.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674291273178,
+    "total": 1,
+    "ctime": 1674291273178,
+    "ptime": 0
+}

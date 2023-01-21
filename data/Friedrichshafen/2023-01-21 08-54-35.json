@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "aac537",
+            "type": "adsb_icao",
+            "flight": "TWY750  ",
+            "r": "N793X",
+            "t": "GL5T",
+            "dbFlags": 8,
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 337.5,
+            "squawk": "0663",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.672448,
+            "lon": 9.520287,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 4.802,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 1,
+            "spi": 1,
+            "mlat": [],
+            "tisb": [],
+            "messages": 3305895,
+            "seen": 0.8,
+            "rssi": -9.8,
+            "dst": 0.023,
+            "dir": 213.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674291275178,
+    "total": 1,
+    "ctime": 1674291275178,
+    "ptime": 0
+}
