@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "4b1620",
+            "type": "adsb_icao",
+            "flight": "HBIJW   ",
+            "r": "HB-IJW",
+            "t": "A320",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 20.0,
+            "baro_rate": 0,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.451542,
+            "lon": 8.559912,
+            "nic": 6,
+            "rc": 926,
+            "seen_pos": 25.068,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 98268067,
+            "seen": 3.4,
+            "rssi": -13.6,
+            "dst": 4.123,
+            "dir": 310.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674272856677,
+    "total": 1,
+    "ctime": 1674272856677,
+    "ptime": 0
+}
