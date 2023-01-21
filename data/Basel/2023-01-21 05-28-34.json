@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "48548e",
+            "type": "adsb_icao",
+            "flight": "KLM84X  ",
+            "r": "PH-EXL",
+            "t": "E75L",
+            "alt_baro": "ground",
+            "gs": 17.5,
+            "true_heading": 244.69,
+            "squawk": "1000",
+            "category": "A3",
+            "lat": 47.617935,
+            "lon": 7.510969,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 0.115,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 78549736,
+            "seen": 0.1,
+            "rssi": -4.6,
+            "dst": 1.24,
+            "dir": 358.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674278914774,
+    "total": 1,
+    "ctime": 1674278914774,
+    "ptime": 0
+}
