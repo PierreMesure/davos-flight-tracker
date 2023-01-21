@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "3ceee1",
+            "type": "adsb_icao",
+            "flight": "AHO361F ",
+            "r": "D-CRTP",
+            "t": "C56X",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 196.88,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.67296,
+            "lon": 9.521731,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 8.658,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 25026884,
+            "seen": 1.5,
+            "rssi": -7.3,
+            "dst": 0.047,
+            "dir": 75.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674280564178,
+    "total": 1,
+    "ctime": 1674280564178,
+    "ptime": 0
+}
