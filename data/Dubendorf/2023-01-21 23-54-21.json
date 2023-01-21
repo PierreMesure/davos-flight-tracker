@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "4b180c",
+            "type": "adsb_icao",
+            "flight": "SWR63J  ",
+            "r": "HB-JCU",
+            "t": "BCS3",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 5.62,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A3",
+            "nav_qnh": 1013.0,
+            "lat": 47.453465,
+            "lon": 8.558624,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.575,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 83876912,
+            "seen": 3.6,
+            "rssi": -13.1,
+            "dst": 4.238,
+            "dir": 311.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674345261774,
+    "total": 1,
+    "ctime": 1674345261774,
+    "ptime": 0
+}
