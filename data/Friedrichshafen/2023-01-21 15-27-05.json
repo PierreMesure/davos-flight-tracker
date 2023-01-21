@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4b1f2f",
+            "type": "adsb_icao",
+            "flight": "HBLVB   ",
+            "r": "HB-LVB",
+            "t": "DA42",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 341.0,
+            "true_heading": 140.62,
+            "baro_rate": 0,
+            "squawk": "6276",
+            "emergency": "none",
+            "category": "A1",
+            "lat": 47.669573,
+            "lon": 9.51328,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 4.213,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 12674147,
+            "seen": 4.2,
+            "rssi": -14.5,
+            "dst": 0.353,
+            "dir": 237.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674314825178,
+    "total": 1,
+    "ctime": 1674314825178,
+    "ptime": 0
+}
