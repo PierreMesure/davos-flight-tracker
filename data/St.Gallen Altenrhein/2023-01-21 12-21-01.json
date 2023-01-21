@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "493294",
+            "type": "adsb_icao",
+            "flight": "NJE404Y ",
+            "r": "CS-LTT",
+            "t": "C68A",
+            "alt_baro": "ground",
+            "alt_geom": 1500,
+            "gs": 19.5,
+            "track": 272.0,
+            "true_heading": 278.44,
+            "baro_rate": -128,
+            "squawk": "0734",
+            "category": "A2",
+            "lat": 47.484867,
+            "lon": 9.56238,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 11.847,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 33954474,
+            "seen": 11.8,
+            "rssi": -14.5,
+            "dst": 0.44,
+            "dir": 113.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674303661774,
+    "total": 1,
+    "ctime": 1674303661774,
+    "ptime": 0
+}
