@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "493289",
+            "type": "adsb_icao",
+            "flight": "NJE026R ",
+            "r": "CS-LTI",
+            "t": "C68A",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 340.0,
+            "true_heading": 196.88,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.673328,
+            "lon": 9.523172,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 30.882,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 28901326,
+            "seen": 5.4,
+            "rssi": -16.4,
+            "dst": 0.109,
+            "dir": 72.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674401229178,
+    "total": 1,
+    "ctime": 1674401229178,
+    "ptime": 0
+}
