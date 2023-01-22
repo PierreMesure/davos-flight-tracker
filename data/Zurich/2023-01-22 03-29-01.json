@@ -1,0 +1,53 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c63",
+            "type": "adsb_icao_nt",
+            "alt_baro": "ground",
+            "gs": 18.5,
+            "track": 50.62,
+            "lat": 47.443725,
+            "lon": 8.546606,
+            "nic": 8,
+            "rc": 25,
+            "seen_pos": 27.943,
+            "version": 1,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 176441,
+            "seen": 27.9,
+            "rssi": -13.3,
+            "dst": 1.67,
+            "dir": 129.0
+        },
+        {
+            "hex": "4b5d6e",
+            "type": "adsb_icao_nt",
+            "flight": "VIKTOR31",
+            "alt_baro": "ground",
+            "gs": 3.8,
+            "track": 87.19,
+            "category": "C2",
+            "lat": 47.462048,
+            "lon": 8.55217,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 6.021,
+            "version": 1,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 553303,
+            "seen": 6.0,
+            "rssi": -20.5,
+            "dst": 1.524,
+            "dir": 88.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674358141274,
+    "total": 2,
+    "ctime": 1674358141274,
+    "ptime": 0
+}
