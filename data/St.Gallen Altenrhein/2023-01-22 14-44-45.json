@@ -1,0 +1,39 @@
+{
+    "ac": [
+        {
+            "hex": "493282",
+            "type": "adsb_icao",
+            "flight": "NJE302F ",
+            "r": "CS-LTB",
+            "t": "C68A",
+            "alt_baro": "ground",
+            "alt_geom": 1500,
+            "gs": 31.5,
+            "true_heading": 278.44,
+            "category": "A2",
+            "lat": 47.485168,
+            "lon": 9.55969,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 0.137,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 36003531,
+            "seen": 0.1,
+            "rssi": -12.8,
+            "dst": 0.333,
+            "dir": 117.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674398685774,
+    "total": 1,
+    "ctime": 1674398685774,
+    "ptime": 0
+}
