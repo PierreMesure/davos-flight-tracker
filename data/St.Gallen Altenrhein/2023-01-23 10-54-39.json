@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "4b43f6",
+            "type": "mlat",
+            "flight": "HBZTE   ",
+            "r": "HB-ZTE",
+            "t": "AS50",
+            "alt_baro": 1925,
+            "gs": 705.0,
+            "track": 211.0,
+            "baro_rate": -102,
+            "squawk": "7000",
+            "lat": 47.461919,
+            "lon": 9.602596,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 36.143,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 709540,
+            "seen": 0.7,
+            "rssi": -12.7,
+            "dst": 2.56,
+            "dir": 127.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674471279678,
+    "total": 1,
+    "ctime": 1674471279678,
+    "ptime": 0
+}
