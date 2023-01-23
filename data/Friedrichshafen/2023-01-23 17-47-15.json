@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "3c4dcd",
+            "type": "adsb_icao",
+            "flight": "DLH1CM  ",
+            "r": "D-ACNM",
+            "t": "CRJ9",
+            "alt_baro": "ground",
+            "gs": 77.0,
+            "track": 254.0,
+            "true_heading": 59.06,
+            "baro_rate": 0,
+            "squawk": "7532",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.667455,
+            "lon": 9.501572,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.586,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 66103000,
+            "seen": 3.6,
+            "rssi": -9.4,
+            "dst": 0.833,
+            "dir": 247.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674496035774,
+    "total": 1,
+    "ctime": 1674496035774,
+    "ptime": 0
+}
