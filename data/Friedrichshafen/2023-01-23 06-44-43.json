@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "3cd5ae",
+            "type": "adsb_icao",
+            "flight": "DCIFM   ",
+            "r": "D-CIFM",
+            "t": "C680",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 61.88,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.673588,
+            "lon": 9.523685,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 3.53,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 8439934,
+            "seen": 0.5,
+            "rssi": -11.6,
+            "dst": 0.134,
+            "dir": 68.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674456283178,
+    "total": 1,
+    "ctime": 1674456283178,
+    "ptime": 0
+}
