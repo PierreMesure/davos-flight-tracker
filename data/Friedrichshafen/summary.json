@@ -6613,5 +6613,35 @@
                 "dst": 3.132
             }
         ]
+    },
+    {
+        "hex": "3cdd18",
+        "flight": "LHB1    ",
+        "r": "D-CLAM",
+        "t": "E55P",
+        "positions": [
+            {
+                "date": "2023-01-23 16-55-08",
+                "lat": 47.675343,
+                "lon": 9.526623,
+                "alt_baro": "ground",
+                "dst": 0.288
+            }
+        ]
+    },
+    {
+        "hex": "3c4dd6",
+        "flight": "DLH2EN  ",
+        "r": "D-ACNV",
+        "t": "CRJ9",
+        "positions": [
+            {
+                "date": "2023-01-23 16-55-08",
+                "lat": 47.591563,
+                "lon": 9.687829,
+                "alt_baro": 23600,
+                "dst": 8.34
+            }
+        ]
     }
 ]
