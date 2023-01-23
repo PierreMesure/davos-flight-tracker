@@ -6329,5 +6329,35 @@
                 "dst": 3.75
             }
         ]
+    },
+    {
+        "hex": "4b1fa7",
+        "flight": "HBLZR   ",
+        "r": "HB-LZR",
+        "t": "DA42",
+        "positions": [
+            {
+                "date": "2023-01-23 13-22-17",
+                "lat": 47.75631,
+                "lon": 9.376857,
+                "alt_baro": 5650,
+                "dst": 7.673
+            }
+        ]
+    },
+    {
+        "hex": "3c4dd0",
+        "flight": "DLH5AA  ",
+        "r": "D-ACNP",
+        "t": "CRJ9",
+        "positions": [
+            {
+                "date": "2023-01-23 13-22-17",
+                "lat": 47.673053,
+                "lon": 9.522541,
+                "alt_baro": "ground",
+                "dst": 0.08
+            }
+        ]
     }
 ]
