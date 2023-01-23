@@ -1,0 +1,38 @@
+{
+    "ac": [
+        {
+            "hex": "440244",
+            "type": "adsb_icao",
+            "flight": "OEGRA   ",
+            "r": "OE-GRA",
+            "t": "C25B",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 109.69,
+            "category": "A1",
+            "lat": 47.487542,
+            "lon": 9.552137,
+            "nic": 8,
+            "rc": 75,
+            "seen_pos": 21.079,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 18351914,
+            "seen": 21.1,
+            "rssi": -8.2,
+            "dst": 0.018,
+            "dir": 221.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674461787774,
+    "total": 1,
+    "ctime": 1674461787774,
+    "ptime": 0
+}
