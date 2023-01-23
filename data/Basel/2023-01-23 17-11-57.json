@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4baa6a",
+            "type": "adsb_icao",
+            "flight": "THY7AN  ",
+            "r": "TC-JSJ",
+            "t": "A321",
+            "alt_baro": "ground",
+            "gs": 14.8,
+            "true_heading": 154.69,
+            "squawk": "6723",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.595054,
+            "lon": 7.528557,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 31.548,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 66510769,
+            "seen": 31.5,
+            "rssi": -1.9,
+            "dst": 0.687,
+            "dir": 101.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674493917677,
+    "total": 1,
+    "ctime": 1674493917677,
+    "ptime": 0
+}
