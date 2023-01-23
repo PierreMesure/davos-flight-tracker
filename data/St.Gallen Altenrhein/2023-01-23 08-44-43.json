@@ -1,0 +1,35 @@
+{
+    "ac": [
+        {
+            "hex": "4b0630",
+            "type": "other",
+            "flight": "HBCIY   ",
+            "r": "HB-CIY",
+            "t": "C152",
+            "alt_baro": 1150,
+            "gs": 55.0,
+            "track": 99.0,
+            "baro_rate": 0,
+            "squawk": "7000",
+            "lat": 47.48855,
+            "lon": 9.527583,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 21.759,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 10034632,
+            "seen": 2.5,
+            "rssi": -3.0,
+            "dst": 1.009,
+            "dir": 272.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674463483774,
+    "total": 1,
+    "ctime": 1674463483774,
+    "ptime": 0
+}
