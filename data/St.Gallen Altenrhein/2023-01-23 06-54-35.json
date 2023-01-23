@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4402ff",
+            "type": "adsb_icao",
+            "flight": "MOZ309  ",
+            "r": "OE-GMB",
+            "t": "C25B",
+            "alt_baro": "ground",
+            "gs": 0.9,
+            "track": 180.0,
+            "true_heading": 185.62,
+            "baro_rate": -1120,
+            "category": "A1",
+            "lat": 47.487414,
+            "lon": 9.55469,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 0.117,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 5155235,
+            "seen": 0.1,
+            "rssi": -4.7,
+            "dst": 0.094,
+            "dir": 103.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674456875678,
+    "total": 1,
+    "ctime": 1674456875678,
+    "ptime": 0
+}
