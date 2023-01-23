@@ -1,0 +1,34 @@
+{
+    "ac": [
+        {
+            "hex": "4b5d8e",
+            "type": "adsb_icao_nt",
+            "flight": "EUGEN18 ",
+            "alt_baro": "ground",
+            "gs": 2.8,
+            "track": 315.0,
+            "category": "C2",
+            "lat": 47.477062,
+            "lon": 8.542952,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 0.0,
+            "version": 1,
+            "nac_p": 11,
+            "sil": 2,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 117000,
+            "seen": 0.0,
+            "rssi": -19.9,
+            "dst": 5.684,
+            "dir": 317.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674517563274,
+    "total": 1,
+    "ctime": 1674517563274,
+    "ptime": 0
+}
