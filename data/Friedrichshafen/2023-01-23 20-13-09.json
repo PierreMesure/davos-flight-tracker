@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "342445",
+            "type": "mlat",
+            "flight": "FTL912  ",
+            "r": "EC-GJM",
+            "t": "SW4",
+            "alt_baro": 19000,
+            "gs": 224.0,
+            "track": 59.0,
+            "squawk": "1000",
+            "nav_qnh": 1013.0,
+            "nav_altitude_mcp": 24000,
+            "lat": 47.587354,
+            "lon": 9.477394,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.587,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 13744440,
+            "seen": 0.2,
+            "rssi": -14.2,
+            "dst": 5.418,
+            "dir": 198.8
+        }
+    ],
+    "msg": "No error",
+    "now": 1674504789178,
+    "total": 1,
+    "ctime": 1674504789178,
+    "ptime": 0
+}
