@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b43f5",
+            "type": "other",
+            "flight": "HBZTD   ",
+            "r": "HB-ZTD",
+            "t": "R44",
+            "alt_baro": 1326,
+            "gs": 3.0,
+            "track": 205.0,
+            "baro_rate": 0,
+            "lat": 47.359667,
+            "lon": 9.5948,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 6.824,
+            "mlat": [],
+            "tisb": [],
+            "messages": 3684615,
+            "seen": 6.8,
+            "rssi": -49.5,
+            "dst": 7.882,
+            "dir": 167.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674575261177,
+    "total": 1,
+    "ctime": 1674575261177,
+    "ptime": 0
+}
