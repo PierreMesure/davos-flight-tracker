@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b4447",
+            "type": "other",
+            "flight": "HBZWH   ",
+            "r": "HB-ZWH",
+            "t": "R66",
+            "alt_baro": 10630,
+            "gs": 74.0,
+            "track": 106.0,
+            "baro_rate": 0,
+            "lat": 46.49265,
+            "lon": 9.767733,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 2.955,
+            "mlat": [],
+            "tisb": [],
+            "messages": 3832683,
+            "seen": 3.0,
+            "rssi": -49.5,
+            "dst": 5.02,
+            "dir": 243.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674568464274,
+    "total": 1,
+    "ctime": 1674568464274,
+    "ptime": 0
+}
