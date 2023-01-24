@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "494105",
+            "type": "adsb_icao",
+            "flight": "NJE766C ",
+            "r": "CS-PHE",
+            "t": "E55P",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 270.0,
+            "mag_heading": 272.81,
+            "true_heading": 276.3,
+            "baro_rate": 0,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.487648,
+            "lon": 9.554226,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.682,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 35638453,
+            "seen": 1.9,
+            "rssi": -3.8,
+            "dst": 0.073,
+            "dir": 95.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674543264678,
+    "total": 1,
+    "ctime": 1674543264678,
+    "ptime": 0
+}
