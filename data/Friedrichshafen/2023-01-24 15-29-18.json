@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "43ed08",
+            "type": "adsb_icao",
+            "flight": "2CLRK   ",
+            "r": "2-CLRK",
+            "t": "EA50",
+            "alt_baro": "ground",
+            "gs": 23.5,
+            "mag_heading": 236.25,
+            "true_heading": 239.71,
+            "squawk": "7510",
+            "emergency": "none",
+            "category": "A1",
+            "lat": 47.669038,
+            "lon": 9.510375,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 0.106,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 2040302,
+            "seen": 0.1,
+            "rssi": -9.5,
+            "dst": 0.47,
+            "dir": 241.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674574158677,
+    "total": 1,
+    "ctime": 1674574158677,
+    "ptime": 0
+}
