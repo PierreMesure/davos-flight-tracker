@@ -1,0 +1,47 @@
+{
+    "ac": [
+        {
+            "hex": "471a81",
+            "type": "mlat",
+            "flight": "FRF121  ",
+            "alt_baro": 18025,
+            "gs": 308.0,
+            "ias": 217,
+            "mach": 0.456,
+            "track": 261.0,
+            "mag_heading": 255.41,
+            "true_heading": 258.87,
+            "baro_rate": 64,
+            "squawk": "0616",
+            "nav_qnh": 1012.7,
+            "nav_altitude_mcp": 18000,
+            "nav_altitude_fms": 18000,
+            "lat": 47.679077,
+            "lon": 9.449851,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.0,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 1418161,
+            "seen": 0.0,
+            "rssi": -11.4,
+            "dst": 2.759,
+            "dir": 278.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674589123677,
+    "total": 1,
+    "ctime": 1674589123677,
+    "ptime": 0
+}
