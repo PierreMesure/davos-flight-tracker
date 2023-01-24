@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "471f5d",
+            "type": "adsb_icao",
+            "flight": "WZZ8522 ",
+            "r": "HA-LWV",
+            "t": "A320",
+            "alt_baro": "ground",
+            "gs": 23.5,
+            "true_heading": 239.06,
+            "squawk": "2762",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.672005,
+            "lon": 9.518016,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 8.256,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 4,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 121517339,
+            "seen": 5.4,
+            "rssi": -11.9,
+            "dst": 0.114,
+            "dir": 246.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674569495774,
+    "total": 1,
+    "ctime": 1674569495774,
+    "ptime": 0
+}
