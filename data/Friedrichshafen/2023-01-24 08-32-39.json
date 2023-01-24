@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "3e1d10",
+            "type": "adsb_icao",
+            "flight": "DICEY   ",
+            "r": "D-ICEY",
+            "t": "C525",
+            "alt_baro": "ground",
+            "gs": 5.8,
+            "true_heading": 241.88,
+            "squawk": "2645",
+            "emergency": "none",
+            "category": "A1",
+            "lat": 47.676395,
+            "lon": 9.524597,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 0.241,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 5366587,
+            "seen": 0.2,
+            "rssi": -5.7,
+            "dst": 0.271,
+            "dir": 36.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674549159178,
+    "total": 1,
+    "ctime": 1674549159178,
+    "ptime": 0
+}
