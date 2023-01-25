@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "3db411",
+            "type": "mlat",
+            "flight": "DGOLD   ",
+            "r": "D-GOLD",
+            "t": "PA34",
+            "alt_baro": 8100,
+            "gs": 170.0,
+            "track": 336.0,
+            "baro_rate": 0,
+            "squawk": "7510",
+            "lat": 47.698749,
+            "lon": 9.48197,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.265,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 2908579,
+            "seen": 0.3,
+            "rssi": -6.4,
+            "dst": 2.207,
+            "dir": 315.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674660536274,
+    "total": 1,
+    "ctime": 1674660536274,
+    "ptime": 0
+}
