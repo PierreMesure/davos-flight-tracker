@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "4632ae",
+            "type": "adsb_icao",
+            "flight": "ABF7    ",
+            "r": "OH-TFA",
+            "t": "E55P",
+            "alt_baro": "ground",
+            "gs": 38.5,
+            "mag_heading": 95.62,
+            "true_heading": 99.09,
+            "squawk": "7515",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.484535,
+            "lon": 9.565762,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 39.522,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 37393617,
+            "seen": 39.5,
+            "rssi": -13.2,
+            "dst": 0.575,
+            "dir": 109.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674642632678,
+    "total": 1,
+    "ctime": 1674642632678,
+    "ptime": 0
+}
