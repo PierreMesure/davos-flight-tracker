@@ -1,0 +1,51 @@
+{
+    "ac": [
+        {
+            "hex": "4b1f0f",
+            "type": "mlat",
+            "flight": "HBLTV   ",
+            "r": "HB-LTV",
+            "t": "DA42",
+            "alt_baro": 2275,
+            "gs": 106.0,
+            "ias": 107,
+            "tas": 108,
+            "mach": 0.168,
+            "wd": 21,
+            "ws": 7,
+            "track": 96.86,
+            "roll": -0.18,
+            "mag_heading": 89.65,
+            "true_heading": 93.14,
+            "baro_rate": -288,
+            "squawk": "7000",
+            "nav_qnh": 1026.0,
+            "nav_altitude_mcp": 2608,
+            "lat": 47.506087,
+            "lon": 9.577773,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 8.118,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "callsign",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 458303,
+            "seen": 0.5,
+            "rssi": -5.7,
+            "dst": 1.505,
+            "dir": 43.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674662219677,
+    "total": 1,
+    "ctime": 1674662219677,
+    "ptime": 0
+}
