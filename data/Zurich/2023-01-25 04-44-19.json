@@ -1,0 +1,36 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c20",
+            "type": "adsb_icao_nt",
+            "flight": "ZEBRA7  ",
+            "alt_baro": "ground",
+            "gs": 0.2,
+            "track": 267.19,
+            "category": "C2",
+            "lat": 47.454082,
+            "lon": 8.573988,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.774,
+            "version": 1,
+            "nac_p": 10,
+            "sil": 2,
+            "sil_type": "unknown",
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 3579229,
+            "seen": 0.8,
+            "rssi": -19.4,
+            "dst": 2.447,
+            "dir": 100.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674621859677,
+    "total": 1,
+    "ctime": 1674621859677,
+    "ptime": 0
+}
