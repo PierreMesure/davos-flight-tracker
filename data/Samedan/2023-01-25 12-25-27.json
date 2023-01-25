@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b43cf",
+            "type": "other",
+            "flight": "HBZRR   ",
+            "r": "HB-ZRR",
+            "t": "A109",
+            "alt_baro": 7500,
+            "gs": 143.0,
+            "track": 225.0,
+            "baro_rate": 0,
+            "lat": 46.465583,
+            "lon": 9.814783,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 2.053,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1110919,
+            "seen": 2.1,
+            "rssi": -49.5,
+            "dst": 4.632,
+            "dir": 213.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674649527678,
+    "total": 1,
+    "ctime": 1674649527678,
+    "ptime": 0
+}
