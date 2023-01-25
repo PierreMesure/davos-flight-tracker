@@ -1,0 +1,36 @@
+{
+    "ac": [
+        {
+            "hex": "3869ff",
+            "type": "adsb_icao_nt",
+            "flight": "TECHNO37",
+            "alt_baro": "ground",
+            "gs": 6.8,
+            "track": 182.81,
+            "category": "C2",
+            "lat": 47.606995,
+            "lon": 7.520318,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.261,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "perhour",
+            "sda": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 224988,
+            "seen": 0.3,
+            "rssi": -4.6,
+            "dst": 0.675,
+            "dir": 30.3
+        }
+    ],
+    "msg": "No error",
+    "now": 1674687423178,
+    "total": 1,
+    "ctime": 1674687423178,
+    "ptime": 0
+}
