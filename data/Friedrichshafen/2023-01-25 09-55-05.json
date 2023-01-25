@@ -1,0 +1,50 @@
+{
+    "ac": [
+        {
+            "hex": "4b1fa7",
+            "type": "mlat",
+            "flight": "HBLZR   ",
+            "r": "HB-LZR",
+            "t": "DA42",
+            "alt_baro": 1800,
+            "gs": 112.0,
+            "ias": 106,
+            "tas": 106,
+            "mach": 0.164,
+            "wd": 108,
+            "ws": 6,
+            "track": 308.32,
+            "roll": -19.51,
+            "mag_heading": 301.11,
+            "true_heading": 304.61,
+            "baro_rate": 544,
+            "squawk": "7000",
+            "nav_qnh": 1029.0,
+            "nav_altitude_mcp": 2400,
+            "lat": 47.701532,
+            "lon": 9.547975,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 1.044,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 8889932,
+            "seen": 0.2,
+            "rssi": -2.5,
+            "dst": 2.051,
+            "dir": 32.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674640505678,
+    "total": 1,
+    "ctime": 1674640505678,
+    "ptime": 0
+}
