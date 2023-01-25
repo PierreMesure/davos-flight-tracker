@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "3f8fa5",
+            "type": "mlat",
+            "flight": "LK01    ",
+            "dbFlags": 1,
+            "alt_baro": 5600,
+            "gs": 304.0,
+            "track": 113.0,
+            "baro_rate": 25,
+            "squawk": "2430",
+            "lat": 47.711121,
+            "lon": 9.619223,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 1.524,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 341772,
+            "seen": 0.6,
+            "rssi": -11.5,
+            "dst": 4.603,
+            "dir": 59.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674654863678,
+    "total": 1,
+    "ctime": 1674654863678,
+    "ptime": 0
+}
