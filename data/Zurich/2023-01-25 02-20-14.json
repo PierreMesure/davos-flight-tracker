@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4b17fe",
+            "type": "adsb_icao",
+            "flight": "SWR47MK ",
+            "r": "HB-JCG",
+            "t": "BCS3",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 244.69,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.442387,
+            "lon": 8.56089,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 8.369,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 67671924,
+            "seen": 5.1,
+            "rssi": -23.4,
+            "dst": 2.192,
+            "dir": 121.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674613214774,
+    "total": 1,
+    "ctime": 1674613214774,
+    "ptime": 0
+}
