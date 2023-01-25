@@ -1,0 +1,39 @@
+{
+    "ac": [
+        {
+            "hex": "440689",
+            "type": "adsb_icao",
+            "flight": "OEGHB   ",
+            "r": "OE-GHB",
+            "t": "C56X",
+            "alt_baro": "ground",
+            "gs": 112.5,
+            "mag_heading": 95.62,
+            "true_heading": 99.11,
+            "category": "A2",
+            "lat": 47.485451,
+            "lon": 9.556973,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 1.575,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 15854795,
+            "seen": 1.6,
+            "rssi": -7.1,
+            "dst": 0.231,
+            "dir": 127.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674628356678,
+    "total": 1,
+    "ctime": 1674628356678,
+    "ptime": 0
+}
