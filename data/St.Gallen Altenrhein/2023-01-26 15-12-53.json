@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "4b43f5",
+            "type": "mlat",
+            "flight": "HBZTD   ",
+            "r": "HB-ZTD",
+            "t": "R44",
+            "alt_baro": 2000,
+            "gs": 130.0,
+            "track": 136.0,
+            "baro_rate": 0,
+            "squawk": "7000",
+            "lat": 47.543212,
+            "lon": 9.396812,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 2.495,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 3702721,
+            "seen": 0.0,
+            "rssi": -5.7,
+            "dst": 7.135,
+            "dir": 297.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674745973177,
+    "total": 1,
+    "ctime": 1674745973177,
+    "ptime": 0
+}
