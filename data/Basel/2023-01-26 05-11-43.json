@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "acb4e4",
+            "type": "adsb_icao",
+            "flight": "FDX6257 ",
+            "r": "N918FD",
+            "t": "B752",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "squawk": "1000",
+            "category": "A4",
+            "lat": 47.5936,
+            "lon": 7.531093,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 10.711,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 27863541,
+            "seen": 5.1,
+            "rssi": -13.2,
+            "dst": 0.808,
+            "dir": 105.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674709903774,
+    "total": 1,
+    "ctime": 1674709903774,
+    "ptime": 0
+}
