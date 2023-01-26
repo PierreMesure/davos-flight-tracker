@@ -1,0 +1,35 @@
+{
+    "ac": [
+        {
+            "hex": "383fff",
+            "type": "adsb_icao_nt",
+            "flight": "SECUAV1 ",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "category": "C2",
+            "lat": 47.600235,
+            "lon": 7.519403,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.032,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "perhour",
+            "sda": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1280082,
+            "seen": 0.0,
+            "rssi": -10.1,
+            "dst": 0.351,
+            "dir": 59.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674714762177,
+    "total": 1,
+    "ctime": 1674714762177,
+    "ptime": 0
+}
