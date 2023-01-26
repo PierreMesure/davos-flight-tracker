@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "4b377d",
+            "type": "adsb_icao",
+            "flight": "HUE007  ",
+            "r": "HB-VAJ",
+            "t": "E55P",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 22.5,
+            "squawk": "2767",
+            "emergency": "none",
+            "category": "A1",
+            "lat": 47.487286,
+            "lon": 9.551767,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 16.741,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 3,
+            "mlat": [],
+            "tisb": [],
+            "messages": 27885902,
+            "seen": 1.7,
+            "rssi": -12.5,
+            "dst": 0.04,
+            "dir": 222.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674729057274,
+    "total": 1,
+    "ctime": 1674729057274,
+    "ptime": 0
+}
