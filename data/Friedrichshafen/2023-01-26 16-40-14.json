@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "342149",
+            "type": "mlat",
+            "flight": "SWT563  ",
+            "r": "EC-JAD",
+            "t": "AT43",
+            "alt_baro": 22800,
+            "gs": 255.0,
+            "track": 251.0,
+            "baro_rate": 1511,
+            "squawk": "6655",
+            "lat": 47.636319,
+            "lon": 9.415972,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 1.463,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 13179058,
+            "seen": 0.7,
+            "rssi": -9.9,
+            "dst": 4.764,
+            "dir": 242.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674751214177,
+    "total": 1,
+    "ctime": 1674751214177,
+    "ptime": 0
+}
