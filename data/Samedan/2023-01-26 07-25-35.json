@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b435e",
+            "type": "other",
+            "flight": "HBZNI   ",
+            "r": "HB-ZNI",
+            "t": "AS50",
+            "alt_baro": 10306,
+            "gs": 104.0,
+            "track": 299.0,
+            "baro_rate": 0,
+            "lat": 46.414783,
+            "lon": 9.833333,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 41.707,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1012792,
+            "seen": 41.7,
+            "rssi": -49.5,
+            "dst": 7.144,
+            "dir": 194.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674717935178,
+    "total": 1,
+    "ctime": 1674717935178,
+    "ptime": 0
+}
