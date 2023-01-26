@@ -1,0 +1,36 @@
+{
+    "ac": [
+        {
+            "hex": "384bff",
+            "type": "adsb_icao_nt",
+            "flight": "M03     ",
+            "alt_baro": "ground",
+            "gs": 29.5,
+            "track": 154.69,
+            "category": "C2",
+            "lat": 47.593088,
+            "lon": 7.52986,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.093,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "perhour",
+            "sda": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 4702203,
+            "seen": 0.1,
+            "rssi": -9.1,
+            "dst": 0.769,
+            "dir": 109.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674704344274,
+    "total": 1,
+    "ctime": 1674704344274,
+    "ptime": 0
+}
