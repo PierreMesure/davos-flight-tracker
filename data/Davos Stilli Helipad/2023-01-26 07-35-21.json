@@ -1,0 +1,33 @@
+{
+    "ac": [
+        {
+            "hex": "4b442a",
+            "type": "other",
+            "flight": "HBZVE   ",
+            "r": "HB-ZVE",
+            "t": "AS50",
+            "alt_baro": 8882,
+            "gs": 7.0,
+            "track": 270.0,
+            "baro_rate": 0,
+            "category": "A7",
+            "lat": 46.834983,
+            "lon": 9.801583,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 3.291,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1351844,
+            "seen": 3.3,
+            "rssi": -49.5,
+            "dst": 2.404,
+            "dir": 304.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674718521178,
+    "total": 1,
+    "ctime": 1674718521178,
+    "ptime": 0
+}

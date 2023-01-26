@@ -1,0 +1,51 @@
+{
+    "ac": [
+        {
+            "hex": "45b86a",
+            "type": "mlat",
+            "flight": "SUS1445 ",
+            "r": "OY-NCJ",
+            "t": "J328",
+            "alt_baro": 20400,
+            "gs": 352.0,
+            "ias": 277,
+            "tas": 370,
+            "mach": 0.608,
+            "wd": 31,
+            "ws": 18,
+            "oat": -29,
+            "tat": -11,
+            "track": 61.52,
+            "roll": -0.35,
+            "mag_heading": 56.78,
+            "true_heading": 60.24,
+            "baro_rate": -1024,
+            "squawk": "4076",
+            "nav_qnh": 1013.2,
+            "lat": 47.524445,
+            "lon": 9.48315,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 2.319,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 12624460,
+            "seen": 0.2,
+            "rssi": -11.2,
+            "dst": 3.57,
+            "dir": 308.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674718525678,
+    "total": 1,
+    "ctime": 1674718525678,
+    "ptime": 0
+}
