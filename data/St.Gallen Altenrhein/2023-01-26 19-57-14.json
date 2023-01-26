@@ -1,0 +1,39 @@
+{
+    "ac": [
+        {
+            "hex": "440570",
+            "type": "adsb_icao",
+            "flight": "PEV107  ",
+            "r": "OE-LMK",
+            "t": "E170",
+            "alt_baro": "ground",
+            "alt_geom": 1475,
+            "gs": 20.5,
+            "true_heading": 278.44,
+            "category": "A3",
+            "lat": 47.484179,
+            "lon": 9.569197,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 1.056,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 48415423,
+            "seen": 1.1,
+            "rssi": -17.8,
+            "dst": 0.714,
+            "dir": 107.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674763034177,
+    "total": 1,
+    "ctime": 1674763034177,
+    "ptime": 0
+}
