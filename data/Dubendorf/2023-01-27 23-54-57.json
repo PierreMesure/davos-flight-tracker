@@ -1,0 +1,33 @@
+{
+    "ac": [
+        {
+            "hex": "4b5c18",
+            "type": "adsb_icao_nt",
+            "flight": "GUIDO13 ",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "category": "C2",
+            "lat": 47.457725,
+            "lon": 8.566501,
+            "nic": 9,
+            "rc": 75,
+            "seen_pos": 3.128,
+            "version": 1,
+            "nac_p": 11,
+            "sil": 2,
+            "sil_type": "unknown",
+            "mlat": [],
+            "tisb": [],
+            "messages": 150899,
+            "seen": 0.6,
+            "rssi": -24.6,
+            "dst": 4.183,
+            "dir": 316.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674863697274,
+    "total": 1,
+    "ctime": 1674863697274,
+    "ptime": 0
+}
