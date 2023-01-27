@@ -1,0 +1,43 @@
+{
+    "ac": [
+        {
+            "hex": "3ffa93",
+            "type": "adsb_icao",
+            "flight": "DMMDY   ",
+            "alt_baro": 1525,
+            "alt_geom": 1775,
+            "gs": 63.5,
+            "track": 61.82,
+            "squawk": "7000",
+            "emergency": "none",
+            "category": "A1",
+            "lat": 47.672699,
+            "lon": 9.51622,
+            "nic": 3,
+            "rc": 7408,
+            "seen_pos": 0.465,
+            "version": 2,
+            "nic_baro": 1,
+            "nac_p": 10,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "perhour",
+            "gva": 2,
+            "sda": 0,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 742536,
+            "seen": 0.0,
+            "rssi": -4.5,
+            "dst": 0.177,
+            "dir": 268.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674819891274,
+    "total": 1,
+    "ctime": 1674819891274,
+    "ptime": 0
+}
