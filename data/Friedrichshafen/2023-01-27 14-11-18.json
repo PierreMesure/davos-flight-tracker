@@ -1,0 +1,35 @@
+{
+    "ac": [
+        {
+            "hex": "4b4def",
+            "type": "other",
+            "flight": "HB2376  ",
+            "r": "HB-2376",
+            "t": "DIMO",
+            "alt_baro": 2600,
+            "gs": 104.0,
+            "track": 305.0,
+            "baro_rate": 0,
+            "squawk": "7000",
+            "lat": 47.5395,
+            "lon": 9.3939,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 1.351,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1627077,
+            "seen": 0.2,
+            "rssi": -4.1,
+            "dst": 9.504,
+            "dir": 212.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674828678178,
+    "total": 1,
+    "ctime": 1674828678178,
+    "ptime": 0
+}
