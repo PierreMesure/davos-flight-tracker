@@ -1,0 +1,47 @@
+{
+    "ac": [
+        {
+            "hex": "394c07",
+            "type": "adsb_icao",
+            "flight": "AFR93QG ",
+            "r": "F-GTAH",
+            "t": "A321",
+            "alt_baro": 34975,
+            "gs": 420.0,
+            "tas": 452,
+            "track": 97.0,
+            "baro_rate": 0,
+            "squawk": "1000",
+            "category": "A0",
+            "nav_qnh": 1024.0,
+            "nav_altitude_mcp": 35008,
+            "lat": 47.584671,
+            "lon": 9.627937,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.087,
+            "version": 0,
+            "nac_p": 0,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "unknown",
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track"
+            ],
+            "tisb": [],
+            "messages": 83097941,
+            "seen": 0.0,
+            "rssi": -10.7,
+            "dst": 6.844,
+            "dir": 140.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674830220677,
+    "total": 1,
+    "ctime": 1674830220677,
+    "ptime": 0
+}
