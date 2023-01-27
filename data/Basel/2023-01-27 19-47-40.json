@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4b43aa",
+            "type": "adsb_icao",
+            "flight": "RGA02   ",
+            "r": "HB-ZQG",
+            "t": "EC45",
+            "alt_baro": "ground",
+            "mag_heading": 61.88,
+            "true_heading": 64.69,
+            "squawk": "7100",
+            "emergency": "none",
+            "category": "A7",
+            "lat": 47.605855,
+            "lon": 7.522906,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 1.808,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 7233052,
+            "seen": 0.0,
+            "rssi": -6.1,
+            "dst": 0.68,
+            "dir": 40.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674848860774,
+    "total": 1,
+    "ctime": 1674848860774,
+    "ptime": 0
+}
