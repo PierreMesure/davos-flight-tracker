@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4b193f",
+            "type": "adsb_icao",
+            "flight": "GSW3PR  ",
+            "r": "HB-JOP",
+            "t": "A320",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A3",
+            "nav_altitude_mcp": 5008,
+            "lat": 47.460798,
+            "lon": 8.552381,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 2.699,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 7098454,
+            "seen": 0.8,
+            "rssi": -9.3,
+            "dst": 1.532,
+            "dir": 91.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674859623178,
+    "total": 1,
+    "ctime": 1674859623178,
+    "ptime": 0
+}
