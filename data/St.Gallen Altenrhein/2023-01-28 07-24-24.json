@@ -1,0 +1,38 @@
+{
+    "ac": [
+        {
+            "hex": "49130e",
+            "type": "adsb_icao",
+            "r": "CS-DXN",
+            "t": "C56X",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "mag_heading": 5.62,
+            "true_heading": 9.12,
+            "category": "A2",
+            "lat": 47.487282,
+            "lon": 9.551908,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 9.496,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 33491168,
+            "seen": 9.5,
+            "rssi": -4.3,
+            "dst": 0.036,
+            "dir": 215.9
+        }
+    ],
+    "msg": "No error",
+    "now": 1674890664678,
+    "total": 1,
+    "ctime": 1674890664678,
+    "ptime": 0
+}
