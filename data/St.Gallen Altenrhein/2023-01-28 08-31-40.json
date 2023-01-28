@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "407185",
+            "type": "adsb_icao",
+            "flight": "CLF115S ",
+            "r": "G-HNPN",
+            "t": "E55P",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 90.0,
+            "mag_heading": 0.0,
+            "baro_rate": 0,
+            "squawk": "2000",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.487179,
+            "lon": 9.55287,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 12.483,
+            "version": 2,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 18124893,
+            "seen": 3.5,
+            "rssi": -5.7,
+            "dst": 0.04,
+            "dir": 153.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1674894700774,
+    "total": 1,
+    "ctime": 1674894700774,
+    "ptime": 0
+}
