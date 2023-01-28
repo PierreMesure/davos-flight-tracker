@@ -1,0 +1,44 @@
+{
+    "ac": [
+        {
+            "hex": "3d3b3d",
+            "type": "mlat",
+            "flight": "DEURL   ",
+            "r": "D-EURL",
+            "t": "DR40",
+            "alt_baro": 2000,
+            "gs": 87.0,
+            "track": 170.0,
+            "baro_rate": -386,
+            "squawk": "7000",
+            "lat": 47.39526,
+            "lon": 9.67902,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 3.597,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "callsign",
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 2494206,
+            "seen": 0.0,
+            "rssi": -11.5,
+            "dst": 7.568,
+            "dir": 137.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674901768678,
+    "total": 1,
+    "ctime": 1674901768678,
+    "ptime": 0
+}
