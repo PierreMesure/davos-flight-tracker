@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "3c4dcd",
+            "type": "adsb_icao",
+            "flight": "DLH6YA  ",
+            "r": "D-ACNM",
+            "t": "CRJ9",
+            "alt_baro": "ground",
+            "gs": 16.5,
+            "true_heading": 289.69,
+            "squawk": "7531",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.664803,
+            "lon": 9.500462,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.917,
+            "version": 2,
+            "nac_p": 9,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 66836744,
+            "seen": 3.9,
+            "rssi": -6.1,
+            "dst": 0.945,
+            "dir": 239.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674884726774,
+    "total": 1,
+    "ctime": 1674884726774,
+    "ptime": 0
+}
