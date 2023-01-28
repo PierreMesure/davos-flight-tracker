@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4b2866",
+            "type": "mlat",
+            "r": "HB-PHU",
+            "t": "P28A",
+            "alt_baro": 3400,
+            "gs": 126.0,
+            "track": 201.0,
+            "baro_rate": 0,
+            "squawk": "7000",
+            "lat": 47.424736,
+            "lon": 9.655114,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.435,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [
+                "gs",
+                "track",
+                "baro_rate",
+                "lat",
+                "lon",
+                "nic",
+                "rc"
+            ],
+            "tisb": [],
+            "messages": 4397201,
+            "seen": 0.3,
+            "rssi": -12.0,
+            "dst": 5.63,
+            "dir": 132.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674921307774,
+    "total": 1,
+    "ctime": 1674921307774,
+    "ptime": 0
+}
