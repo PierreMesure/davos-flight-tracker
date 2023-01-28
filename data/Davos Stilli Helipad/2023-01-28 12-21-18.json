@@ -1,0 +1,41 @@
+{
+    "ac": [
+        {
+            "hex": "3ff663",
+            "type": "adsb_icao",
+            "flight": "DMUNG   ",
+            "alt_baro": 10875,
+            "gs": 70.3,
+            "track": 274.9,
+            "squawk": "7000",
+            "category": "B4",
+            "lat": 46.805901,
+            "lon": 9.857552,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.105,
+            "version": 2,
+            "nic_baro": 0,
+            "nac_p": 0,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "perhour",
+            "gva": 0,
+            "sda": 0,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1611464,
+            "seen": 0.1,
+            "rssi": -8.7,
+            "dst": 0.498,
+            "dir": 139.5
+        }
+    ],
+    "msg": "No error",
+    "now": 1674908478678,
+    "total": 1,
+    "ctime": 1674908478678,
+    "ptime": 0
+}
