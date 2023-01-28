@@ -1,0 +1,38 @@
+{
+    "ac": [
+        {
+            "hex": "407185",
+            "type": "adsb_icao",
+            "flight": "CLF014R ",
+            "r": "G-HNPN",
+            "t": "E55P",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "track": 90.0,
+            "mag_heading": 2.81,
+            "baro_rate": 0,
+            "squawk": "7533",
+            "emergency": "none",
+            "category": "A2",
+            "lat": 47.487181,
+            "lon": 9.552859,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 42.256,
+            "version": 2,
+            "sil_type": "perhour",
+            "mlat": [],
+            "tisb": [],
+            "messages": 18116055,
+            "seen": 34.4,
+            "rssi": -4.3,
+            "dst": 0.039,
+            "dir": 153.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674897099677,
+    "total": 1,
+    "ctime": 1674897099677,
+    "ptime": 0
+}
