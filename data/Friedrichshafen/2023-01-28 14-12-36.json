@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "471f82",
+            "type": "adsb_icao",
+            "flight": "WZZ1925 ",
+            "r": "HA-LYG",
+            "t": "A320",
+            "alt_baro": "ground",
+            "gs": 0.0,
+            "true_heading": 194.06,
+            "squawk": "2763",
+            "emergency": "none",
+            "category": "A3",
+            "lat": 47.673054,
+            "lon": 9.522486,
+            "nic": 7,
+            "rc": 371,
+            "seen_pos": 2.459,
+            "version": 2,
+            "nac_p": 8,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 116968705,
+            "seen": 1.3,
+            "rssi": -11.0,
+            "dst": 0.078,
+            "dir": 77.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674915156186,
+    "total": 1,
+    "ctime": 1674915156186,
+    "ptime": 0
+}
