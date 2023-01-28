@@ -1,0 +1,31 @@
+{
+    "ac": [
+        {
+            "hex": "38c1ff",
+            "type": "adsb_icao_nt",
+            "alt_baro": "ground",
+            "gs": 15.5,
+            "track": 284.06,
+            "category": "C2",
+            "lat": 47.600716,
+            "lon": 7.527712,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 0.164,
+            "version": 2,
+            "sil_type": "perhour",
+            "mlat": [],
+            "tisb": [],
+            "messages": 39119,
+            "seen": 0.2,
+            "rssi": -5.6,
+            "dst": 0.672,
+            "dir": 72.2
+        }
+    ],
+    "msg": "No error",
+    "now": 1674947488774,
+    "total": 1,
+    "ctime": 1674947488774,
+    "ptime": 0
+}

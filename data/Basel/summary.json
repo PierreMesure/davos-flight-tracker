@@ -36972,5 +36972,20 @@
                 "dst": 6.873
             }
         ]
+    },
+    {
+        "hex": "38c1ff",
+        "flight": null,
+        "r": null,
+        "t": null,
+        "positions": [
+            {
+                "date": "2023-01-28 23-11-28",
+                "lat": 47.600716,
+                "lon": 7.527712,
+                "alt_baro": "ground",
+                "dst": 0.672
+            }
+        ]
     }
 ]
