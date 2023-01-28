@@ -1,0 +1,32 @@
+{
+    "ac": [
+        {
+            "hex": "4b42d5",
+            "type": "other",
+            "flight": "HBZIB   ",
+            "r": "HB-ZIB",
+            "t": "AS50",
+            "alt_baro": 12064,
+            "gs": 85.0,
+            "track": 197.0,
+            "baro_rate": 0,
+            "lat": 46.379567,
+            "lon": 9.9749,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 19.403,
+            "mlat": [],
+            "tisb": [],
+            "messages": 637711,
+            "seen": 19.4,
+            "rssi": -49.5,
+            "dst": 9.909,
+            "dir": 155.7
+        }
+    ],
+    "msg": "No error",
+    "now": 1674920753774,
+    "total": 1,
+    "ctime": 1674920753774,
+    "ptime": 0
+}
