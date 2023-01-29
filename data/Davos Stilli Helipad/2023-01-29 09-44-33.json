@@ -1,0 +1,40 @@
+{
+    "ac": [
+        {
+            "hex": "4b2ce2",
+            "type": "adsb_icao",
+            "flight": "HBQZY   ",
+            "r": "HB-QZY",
+            "t": "BALL",
+            "alt_baro": 9575,
+            "gs": 8.0,
+            "track": 236.0,
+            "baro_rate": 0,
+            "category": "B2",
+            "lat": 46.790771,
+            "lon": 9.612233,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 8.515,
+            "version": 0,
+            "nac_p": 0,
+            "nac_v": 0,
+            "sil": 0,
+            "sil_type": "perhour",
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 149682,
+            "seen": 6.7,
+            "rssi": -10.7,
+            "dst": 9.844,
+            "dir": 262.6
+        }
+    ],
+    "msg": "No error",
+    "now": 1674985473178,
+    "total": 1,
+    "ctime": 1674985473178,
+    "ptime": 0
+}
