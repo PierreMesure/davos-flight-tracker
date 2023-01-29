@@ -1,0 +1,34 @@
+{
+    "ac": [
+        {
+            "hex": "4b0626",
+            "type": "other",
+            "flight": "HBCIO   ",
+            "r": "HB-CIO",
+            "t": "C172",
+            "alt_baro": 10171,
+            "gs": 102.0,
+            "track": 331.0,
+            "baro_rate": 0,
+            "category": "A1",
+            "lat": 46.75235,
+            "lon": 9.66295,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 6.005,
+            "version": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 4252098,
+            "seen": 6.0,
+            "rssi": -49.5,
+            "dst": 8.477,
+            "dir": 245.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1675001507774,
+    "total": 1,
+    "ctime": 1675001507774,
+    "ptime": 0
+}
