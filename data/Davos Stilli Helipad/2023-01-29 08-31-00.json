@@ -1,0 +1,39 @@
+{
+    "ac": [
+        {
+            "hex": "4b2c80",
+            "type": "adsb_icao",
+            "flight": "HBQWE   ",
+            "r": "HB-QWE",
+            "t": "BALL",
+            "alt_baro": 9825,
+            "track": 239.0,
+            "squawk": "7000",
+            "category": "B2",
+            "lat": 46.869538,
+            "lon": 9.815862,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 15.502,
+            "version": 1,
+            "nic_baro": 0,
+            "nac_p": 0,
+            "sil": 0,
+            "sil_type": "unknown",
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 10948,
+            "seen": 0.8,
+            "rssi": -23.5,
+            "dst": 3.712,
+            "dir": 338.0
+        }
+    ],
+    "msg": "No error",
+    "now": 1674981060274,
+    "total": 1,
+    "ctime": 1674981060274,
+    "ptime": 0
+}
