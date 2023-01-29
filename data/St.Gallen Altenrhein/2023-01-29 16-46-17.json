@@ -1,0 +1,29 @@
+{
+    "ac": [
+        {
+            "hex": "4b43b0",
+            "type": "other",
+            "r": "HB-ZQM",
+            "t": "EC45",
+            "calc_track": 225,
+            "category": "A7",
+            "lat": 47.430865,
+            "lon": 9.386919,
+            "nic": 0,
+            "rc": 0,
+            "seen_pos": 42.208,
+            "mlat": [],
+            "tisb": [],
+            "messages": 3704910,
+            "seen": 42.2,
+            "rssi": -49.5,
+            "dst": 7.538,
+            "dir": 243.1
+        }
+    ],
+    "msg": "No error",
+    "now": 1675010777774,
+    "total": 1,
+    "ctime": 1675010777774,
+    "ptime": 0
+}
