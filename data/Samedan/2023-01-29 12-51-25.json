@@ -1,0 +1,42 @@
+{
+    "ac": [
+        {
+            "hex": "4b4416",
+            "type": "adsb_icao",
+            "alt_baro": 12850,
+            "alt_geom": 13075,
+            "gs": 65.0,
+            "track": 284.25,
+            "baro_rate": 1152,
+            "nav_qnh": 1019.2,
+            "nav_altitude_mcp": 12000,
+            "lat": 46.378039,
+            "lon": 9.959175,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 3.661,
+            "version": 2,
+            "nic_baro": 1,
+            "nac_p": 10,
+            "nac_v": 2,
+            "sil": 3,
+            "sil_type": "perhour",
+            "gva": 2,
+            "sda": 2,
+            "alert": 0,
+            "spi": 0,
+            "mlat": [],
+            "tisb": [],
+            "messages": 169773,
+            "seen": 1.5,
+            "rssi": -7.6,
+            "dst": 9.746,
+            "dir": 159.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674996685678,
+    "total": 1,
+    "ctime": 1674996685678,
+    "ptime": 0
+}
