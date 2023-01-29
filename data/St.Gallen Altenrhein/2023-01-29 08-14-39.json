@@ -1,0 +1,38 @@
+{
+    "ac": [
+        {
+            "hex": "4d2485",
+            "type": "adsb_icao",
+            "flight": "VJT435  ",
+            "r": "9H-VCW",
+            "t": "CL35",
+            "alt_baro": "ground",
+            "gs": 0.1,
+            "true_heading": 5.62,
+            "category": "A2",
+            "lat": 47.487179,
+            "lon": 9.553007,
+            "nic": 8,
+            "rc": 186,
+            "seen_pos": 18.925,
+            "version": 2,
+            "nac_p": 11,
+            "nac_v": 1,
+            "sil": 3,
+            "sil_type": "perhour",
+            "sda": 2,
+            "mlat": [],
+            "tisb": [],
+            "messages": 1012990,
+            "seen": 3.6,
+            "rssi": -5.9,
+            "dst": 0.042,
+            "dir": 146.4
+        }
+    ],
+    "msg": "No error",
+    "now": 1674980079678,
+    "total": 1,
+    "ctime": 1674980079678,
+    "ptime": 0
+}
